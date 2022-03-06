@@ -1,0 +1,10 @@
+Thoi gian chay TestCase 1 la: 0.066000000
+Thoi gian chay TestCase 2 la: 0.073000000
+Thoi gian chay TestCase 3 la: 0.392000000
+Thoi gian chay TestCase 4 la: 0.382000000
+Thoi gian chay TestCase 5 la: 0.699000000
+Thoi gian chay TestCase 6 la: 0.453000000
+Thoi gian chay TestCase 7 la: 0.527000000
+Thoi gian chay TestCase 8 la: 0.313000000
+Thoi gian chay TestCase 9 la: 0.448000000
+Thoi gian chay TestCase 10 la: 0.352000000
